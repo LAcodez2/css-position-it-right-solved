@@ -65,7 +65,7 @@ footer {
   padding: 0 30px;
   min-height: 70px;
   position: fixed;
-  top: 750px;
+  bottom: 0;
 }
 
 .footer-content {
